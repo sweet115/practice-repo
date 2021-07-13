@@ -1,6 +1,6 @@
 ## John Sheridan
 
-### summer 2021 
+### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
@@ -14,9 +14,9 @@ I am _passionate about_:
 
 - Piano
 
-- Thing 2
+- Gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- skiing as shown in this website <https://skivermont.com/stowe-mountain-resort>
 
 ***
 
