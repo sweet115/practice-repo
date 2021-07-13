@@ -1,22 +1,18 @@
-## First Name Last Name
+## John Sheridan
 
-### Term Year 
+### summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Pre-calculus 1
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- Intro to data science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Piano
 
 - Thing 2
 
@@ -24,4 +20,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/7/13
