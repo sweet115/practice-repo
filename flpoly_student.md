@@ -19,7 +19,7 @@ I am _passionate about_:
 - skiing as shown in this website <https://skivermont.com/stowe-mountain-resort>
 
 ***
-
+ 
  
 |**Prefix**    |Number    | **Name**                          |**Credits**  |
 |:------------:|:--------:|:---------------------------------:|:-----------:|
