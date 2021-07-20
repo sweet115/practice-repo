@@ -20,4 +20,12 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/7/13
+ 
+|**Prefix**    |Number    | **Name**                          |**Credits**  |
+|:------------:|:--------:|:---------------------------------:|:-----------:|
+| **COP**      |**2073**  |_Intro to Data Science_            |3            |
+| **MAC**      |**1147**  |_Precalculus Algebra/Trigonometry_ |4            |
+|
+
+
+> Last modified: 2021/7/20
